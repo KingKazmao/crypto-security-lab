@@ -1,0 +1,7 @@
+cypher: 
+    key: VYZALCSIJTBKQFGHPNXRDMEOUW
+         ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+    ilovecryptology = jkgalznuhrzlzsu
+
+    jkgalznuhrzlzsu = ilovecryptology

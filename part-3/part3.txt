@@ -1,0 +1,11 @@
+Back in november of 2020, CAPCOM warned a ransomware attack might have compromised gamers personal information, up to 350,000 were affected, the third party used ransomware which is a malicious software that threatens to block a victims 
+access to their own records unless paid off, (esentially giving you a pay wall to log in or get information) the attackers scrambled some of the ddata on capcoms servers, making it 
+impossible to view or amend and destroyed some files outright
+The ragnar locker hacker group had then demanded to be paid to undo the encryption inolved, Capcom said. 
+
+Eventually capcom was able to confirm only 9 peoples personal info was definitely compromised, all current or former employees.
+but up to 350k customers, business partners, and other empolyees might have been affected.
+
+The company eventually let out a deep apology for all those affected. All online transactions were handled by a third party, and capcom does not maintain any such information internally. Noone credit card was at risk. 
+Using data protection watch dogs, they let all fans it was ok to use their services again. 
+
